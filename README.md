@@ -1,8 +1,8 @@
 # Pac-Man-game
 
 ```
-+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+  20
-|..........             P             |
++XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+  
+|..........             P             |   20
 |         ......E                     |
 |XX   XXXXX       XXXXXXXX   XXXXXXXXX|
 |     |           XXXXXXXX   XXXXXXXXX|
